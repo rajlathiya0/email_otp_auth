@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+*.eggs/
+*.log
+*.pot
+*.pyc
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.env/
+*.env
+
+# Django stuff
+db.sqlite3
+media/
+staticfiles/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+
+# Byte-compiled / optimized files
+__pycache__/
+
+# Coverage / Testing
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyInstaller
+*.spec
+
+# Local environment
+.env.local
+.env.development
+.env.production
+
+# Mac/Windows System files
+.DS_Store
+Thumbs.db
